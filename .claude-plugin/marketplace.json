@@ -1,0 +1,14 @@
+{
+  "name": "paper-to-bullets-skills",
+  "owner": {
+    "name": "roivigo98"
+  },
+  "plugins": [
+    {
+      "name": "paper-to-bullets",
+      "source": "./",
+      "description": "Turn a research paper into five bullets: title, question, method, result, limitation.",
+      "version": "1.0.0"
+    }
+  ]
+}
