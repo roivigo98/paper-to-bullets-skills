@@ -1,0 +1,7 @@
+{
+  "name": "paper-to-bullets",
+  "version": "1.0.0",
+  "description": "Turn a research paper into five bullets: title, question, method, result, limitation.",
+  "license": "MIT",
+  "keywords": ["research", "papers", "summary", "triage"]
+}
